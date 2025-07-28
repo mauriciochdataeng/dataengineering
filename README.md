@@ -1,5 +1,3 @@
-# dataengineering
-
 # Data Engineering
 
 This repository contains my practical projects and notes as I study various topics related to data engineering.  
